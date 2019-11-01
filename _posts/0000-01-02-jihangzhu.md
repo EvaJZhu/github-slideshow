@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-
+Here is something new!
 Use the right arrow to begin!
 
 ---
